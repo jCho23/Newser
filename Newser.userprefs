@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{BA29C079-3299-49A5-AEE1-FAC18AE2BF59}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.Newser PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Newser/Tests.cs">
+    <Files>
+      <File FileName="Newser/Tests.cs" Line="42" Column="56" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
